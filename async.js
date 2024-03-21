@@ -1,5 +1,7 @@
 console.log("Start");
 
-console.log("Other_")
+setTimeout(function(){
+console.log("2s")
+},2000);
 
 console.log("End");
